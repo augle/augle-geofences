@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "p_name": "Reading Gate Retail Park",
+        "p_id": "uk:reading:reading-gate-retail-park",
+        "p_tags": "retail,diy,electronics,pizza,burger,home,clothing,toys,garden,construction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9818977117538451,
+              51.423500379206494
+            ],
+            [
+              -0.9804224967956542,
+              51.422128895866784
+            ],
+            [
+              -0.9792852401733398,
+              51.42240319582736
+            ],
+            [
+              -0.9799611568450927,
+              51.42422290021764
+            ],
+            [
+              -0.9812057018280029,
+              51.42529997051761
+            ],
+            [
+              -0.9824395179748535,
+              51.42527655621579
+            ],
+            [
+              -0.9839200973510742,
+              51.42453732709039
+            ],
+            [
+              -0.9818977117538451,
+              51.423500379206494
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
