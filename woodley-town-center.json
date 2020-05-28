@@ -6,7 +6,7 @@
       "properties": {
         "p_name": "Woodley Town Center",
         "p_id": "uk:reading:woodley-town-center",
-        "p_tags": "retail,grocery,pharma,pizza,fish-chips,charity,banking,restaurants"
+        "p_tags": "retail,grocery,pharma,pizza,fish-chips,charity,banking,restaurants, food-courts"
       },
       "geometry": {
         "type": "Polygon",
