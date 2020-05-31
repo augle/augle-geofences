@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "p_id": "uk:reading:calcot-retail-park",
+        "p_name": "calcot-retail-park",
+        "p_tags": "retail,grocery,shopping,sport,fastfood,petrol,clothing,home"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.0632383823394775,
+              51.44320839650547
+            ],
+            [
+              -1.062079668045044,
+              51.44122226181166
+            ],
+            [
+              -1.0612213611602783,
+              51.441630195514335
+            ],
+            [
+              -1.0596656799316406,
+              51.44242599011904
+            ],
+            [
+              -1.0591614246368408,
+              51.44324183237719
+            ],
+            [
+              -1.0599231719970703,
+              51.44408440826269
+            ],
+            [
+              -1.0632383823394775,
+              51.44320839650547
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
