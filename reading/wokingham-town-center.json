@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "p_id": "uk:readng:wokingham-town-center",
-        "p_name": "wokingham-town-center",
+        "p_name": "Wokingham Town Center",
         "p_tags": "food,shopping,grocery,eatingout,bar,pubs"
       },
       "geometry": {
