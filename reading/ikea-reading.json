@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "p_id": "uk:reading:ikea-reading",
-        "p_name": "ikea-reading",
+        "p_name": "Ikea Reading",
         "p_tags": "home,diy,kitchens,cafe"
       },
       "geometry": {
