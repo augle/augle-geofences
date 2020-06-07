@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "p_id": "uk:reading:calcot-retail-park",
-        "p_name": "calcot-retail-park",
+        "p_name": "Calcot Retail Park",
         "p_tags": "retail,grocery,shopping,sport,fastfood,petrol,clothing,home"
       },
       "geometry": {
